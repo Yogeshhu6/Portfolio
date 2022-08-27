@@ -18,6 +18,7 @@ This project is Hosted on `Netlify`
 - Positioning of the Element
 - Positioning of Image in Web page
 - How to Create `Readme.md` file
+- Get familiar with `GIT` command line Interface
 
 __Project Snap Shot__
 
